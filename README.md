@@ -1,0 +1,1 @@
+Draft solutions for few Codility tests.
